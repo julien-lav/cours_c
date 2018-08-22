@@ -1,0 +1,41 @@
+Pour les valiables pas de chiffres au debut, pas de caractère special.
+
+
+
+aireDuCarre
+aire_du_carre
+_aireDuCarre
+
+
+// Déclaration dun variable de type entier.
+
+int aireDuCarre = 45; 
+const float PI = 3.14;
+
+
+Déclaration et affectation
+
+float nombre = 123.45;
+int nombre_entier = (int)nombre; 
+
+%d : int
+%f : float
+%c : char
+%s : chaine de caractère
+
+printf("%d\n", nomnbre_entier);
+%.2f pour n'afficher que deux chiffres après la virgule.
+
+
+mots clefs : 
+
+// Passer dans les registre donc plus rapide mais très petite memoire
+register int nomnbre = 5;
+
+// Dans la ram exmple donnée clavier souris
+volatile int autreNombre = 10;
+
+Attention à bien utiliser.
+
+scanf("%d", &user);
+

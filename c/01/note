@@ -1,0 +1,17 @@
+/* .h identifie les fonctions d'entête */
+stdio.h in out
+gcc --version 
+gcc main.c -o hell
+./hello
+
+prtinf est inclus dans stdio.h
+
+main point de depart donc obligatoire
+
+int integer ce que le fonction va retourner
+int main
+return 0;
+
+void main
+return; =>
+void  
